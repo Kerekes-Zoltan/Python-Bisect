@@ -1,0 +1,1 @@
+Write a Python program to find four elements from a given array of integers whose sum is equal to a given number. The solution set must not contain duplicate quadruplets.

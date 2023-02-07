@@ -1,0 +1,1 @@
+Write a Python program to insert items into a list in sorted order.

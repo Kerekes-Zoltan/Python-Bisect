@@ -1,0 +1,1 @@
+Write a Python program to find the first occurrence of a given number in a sorted list using Binary Search (bisect).
